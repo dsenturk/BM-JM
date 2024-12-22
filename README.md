@@ -20,7 +20,7 @@ The contents of this folder allow for implementation of the BM-JM estimation and
 
 REQUIREMENTS ——————————————
 
-The included R programs require R 4.1.0 (R Core Team, 2021) and the packages listed in BM_JM_tutorial.R.
+The included R programs require R 4.1.0 (R Core Team, 2021) and the packages listed in BM_JM_tutorial.R. Note that the LFBayes package needs to be installed from the Github (https://github.com/jshamsho/LFBayes/tree/master). 
 
 INSTALLATION ——————————————
 
