@@ -33,6 +33,8 @@
 ## PACKAGES
 ################################################
 # Install missing packages
+# Note that the "LFBayes" package needs to be installed from the Github (https://github.com/jshamsho/LFBayes/tree/master). 
+
 list.of.packages <- c("rjags", "parallel", "nimble", "R2WinBUGS", "mvtnorm", "Matrix",
                       "MASS", "doParallel", "basicMCMCplots", "tidyverse",
                       "latex2exp", "timeROC", "survival", "pec")
